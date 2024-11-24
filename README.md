@@ -1,10 +1,9 @@
-## Welcome to My GitHub! 👋
+# Welcome! 👋👋
 
 <br>
  Hi there! I'm *Santiago Silva*, a Computer Engineering student passionate about coding, learning, and building cool projects. Here, you'll find my journey through development, including experiments, contributions, and personal projects.
 <br>
-
----
+<br>
 
 ## Programming Languages
 
@@ -32,11 +31,11 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </div>
 
 ---
 
+<br>
 <br>
 
 🌱 Currently learning: 
@@ -50,8 +49,9 @@
   *  🟦🟥 I love FC Barcelona
   * 🤖 Enthusiast of AI
 
+<br>
 
-Feel free to explore my repositories and connect. I’d love to collaborate and hear your feedback!
+### Feel free to explore my repositories and connect. I’d love to collaborate and hear your feedback!
 
 
 
