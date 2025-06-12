@@ -44,15 +44,12 @@
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </div>
 
-
 ---
 
 <br>
 <br>
 
 🌱 Currently learning: 
-  * 🟨 **JavaScript**
-  * 🟩 **Node.js**
   * 👩‍🏫 **Advanced english and italian**
 
 
@@ -62,8 +59,3 @@
   * 🤖 Enthusiast of AI
 
 <br>
-
-### Feel free to explore my repositories and connect. I’d love to collaborate and hear your feedback!!
-
-
-
