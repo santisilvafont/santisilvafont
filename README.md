@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src= "https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript>"
+  <img src= "https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
 </div>
 
 ## Frontend Technologies
